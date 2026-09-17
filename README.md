@@ -67,51 +67,76 @@ Currently, I'm exploring:
 
 <!-- ===================== TECH STACK ===================== -->
 
-## ⚡ Tech Stack
+## ⚡ Tech Stack & Tools
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+### 💻 Languages
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,nodejs,express" />
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,linux,git,github" />
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,vscode" />
-
+<img src="https://skillicons.dev/icons?i=python,java,js,cpp,c"/>
 </p>
 
-<br>
+</td>
 
-<!-- ===================== CLOUD & DEVOPS ===================== -->
+<td width="50%" valign="top">
 
-## ☁️ Cloud & DevOps
+### ☁️ Cloud & DevOps
 
-I'm particularly interested in understanding what happens
-**after the application is written.**
+<p align="center">
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,linux,git,github"/>
+</p>
 
-```text
-             SOURCE CODE
-                  │
-                  ▼
-                BUILD
-                  │
-                  ▼
-            CONTAINERIZE
-                  │
-                  ▼
-                CI/CD
-                  │
-                  ▼
-               DEPLOY
-                  │
-                  ▼
-                CLOUD
-                  │
-                  ▼
-               MONITOR
-                  │
-                  ▼
-               IMPROVE
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 Frontend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,html,css"/>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🗄️ Databases
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=postgres,mongodb"/>
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### ⚙️ Backend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+</p>
+
+<p align="center">
+<code>REST APIs</code>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🛠️ Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=vscode,postman,figma"/>
+</p>
+
+</td>
+</tr>
+</table>
