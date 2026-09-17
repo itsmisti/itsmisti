@@ -1,21 +1,20 @@
 <!-- ===================== HEADER ===================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,100:312E81&height=220&section=header&text=TWINKLE&fontSize=55&fontColor=67E8F9&animation=fadeIn&fontAlignY=38"/>
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,100:312E81&height=220&section=header&text=TWINKLE&fontSize=55&fontColor=67E8F9&animation=fadeIn&fontAlignY=38"
+    width="100%"
+  />
 </p>
 
-<h1 align="center">
-  Hi 👋, I'm Twinkle
-</h1>
+<h1 align="center">Hey, I'm Twinkle 👋</h1>
 
 <h3 align="center">
-  CSE Undergraduate • Cloud • DevOps • Software Engineering
+  CS Undergrad · Software Builder · Problem Solver
 </h3>
 
 <p align="center">
-  <i>
-    Code → Cloud → Automation → Deployment
-  </i>
+  <i>Code → Build → Break → Understand → Build Better</i>
 </p>
 
 <br>
@@ -23,8 +22,6 @@
 <!-- ===================== ABOUT ME ===================== -->
 
 ## 👩‍💻 About Me
-
-
 
 > **I like knowing what happens after "Run".**
 
@@ -85,74 +82,125 @@ Currently, I'm exploring:
 
 ## ⚡ Tech Stack & Tools
 
-<table align="center">
-<tr>
-<td width="50%" valign="top">
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top" align="center">
 
 ### 💻 Languages
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,js,cpp,c"/>
-</p>
+<img src="https://skillicons.dev/icons?i=python,java,js,c&theme=dark" />
 
-</td>
+<br><br>
 
-<td width="50%" valign="top">
+<code>Python</code>&nbsp;&nbsp;
+<code>Java</code>&nbsp;&nbsp;
+<code>JavaScript</code>&nbsp;&nbsp;
+<code>C</code>
+
+    </td>
+
+    <td width="50%" valign="top" align="center">
 
 ### ☁️ Cloud & DevOps
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,linux,git,github"/>
-</p>
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,linux&theme=dark" />
 
-</td>
-</tr>
+<br><br>
 
-<tr>
-<td width="50%" valign="top">
+<code>AWS</code>&nbsp;&nbsp;
+<code>Docker</code>&nbsp;&nbsp;
+<code>Kubernetes</code>&nbsp;&nbsp;
+<code>Jenkins</code>&nbsp;&nbsp;
+<code>Linux</code>
+
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%" valign="top" align="center">
 
 ### 🌐 Frontend
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,html,css"/>
-</p>
+<img src="https://skillicons.dev/icons?i=react,html,css&theme=dark" />
 
-</td>
+<br><br>
 
-<td width="50%" valign="top">
+<code>React</code>&nbsp;&nbsp;
+<code>HTML</code>&nbsp;&nbsp;
+<code>CSS</code>
+
+    </td>
+
+    <td width="50%" valign="top" align="center">
 
 ### 🗄️ Databases
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=postgres,mongodb"/>
-</p>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb&theme=dark" />
 
-</td>
-</tr>
+<br><br>
 
-<tr>
-<td width="50%" valign="top">
+<code>PostgreSQL</code>&nbsp;&nbsp;
+<code>MongoDB</code>
+
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%" valign="top" align="center">
 
 ### ⚙️ Backend
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express"/>
-</p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark" />
 
-<p align="center">
+<br><br>
+
+<code>Node.js</code>&nbsp;&nbsp;
+<code>Express.js</code>&nbsp;&nbsp;
+<code>FastAPI</code>
+
+<br><br>
+
 <code>REST APIs</code>
-</p>
 
-</td>
+    </td>
 
-<td width="50%" valign="top">
+    <td width="50%" valign="top" align="center">
 
 ### 🛠️ Tools
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=vscode,postman,figma"/>
-</p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" />
 
-</td>
-</tr>
+<br><br>
+
+<code>Git</code>&nbsp;&nbsp;
+<code>GitHub</code>&nbsp;&nbsp;
+<code>VS Code</code>&nbsp;&nbsp;
+<code>Postman</code>
+
+    </td>
+  </tr>
 </table>
+
+<br>
+
+<!-- ===================== AI & DATA ===================== -->
+
+## 🧠 AI & Data
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python&theme=dark" />
+
+&nbsp;&nbsp;
+
+<code>LLM APIs</code>
+&nbsp;&nbsp;
+<code>AI Integration</code>
+&nbsp;&nbsp;
+<code>Pandas</code>
+&nbsp;&nbsp;
+<code>NumPy</code>
+&nbsp;&nbsp;
+<code>Scikit-learn</code>
+
+</p>
