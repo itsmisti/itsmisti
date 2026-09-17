@@ -1,16 +1,32 @@
-## Hi there 👋
+                  [ CUSTOM TECH ARTWORK ]
 
-<!--
-**itsmisti/itsmisti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+                  Hi 👋, I'm Misti
 
-Here are some ideas to get you started:
+              CSE Undergraduate • Cloud & DevOps
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+       Building software. Deploying it. Breaking it.
+                    Fixing it. Repeating.
+
+                    ─────────────
+
+                       🚀 About Me
+
+             Short personal introduction
+
+                    🤝 Connect
+
+             GitHub   LinkedIn   Discord
+
+                    💻 Tech Stack
+
+       [icons] [icons] [icons] [icons] [icons]
+
+                    📊 GitHub Stats
+
+                  [ stats ][ stats ]
+
+                  📈 Activity Graph
+
+                    [ graph ]
+
+             BUILD • DEPLOY • AUTOMATE
