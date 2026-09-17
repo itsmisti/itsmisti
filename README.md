@@ -24,12 +24,30 @@
 
 ## 👩‍💻 About Me
 
-I'm a **3rd-year Computer Science Engineering student** exploring
-the intersection of **software development, cloud computing and DevOps**.
+# Hey, I'm Twinkle 👋
 
-I enjoy building applications, designing backend systems, working with
-cloud services, and understanding how software moves from development
-to deployment.
+### `CS Undergrad` · `Software Builder` · `Problem Solver`
+
+> **I like knowing what happens after "Run".**
+
+I'm a **CS undergrad** preparing for software engineering placements and
+learning by building things that go beyond basic tutorials.
+
+I like taking an idea, pulling it apart, and seeing how far I can take
+it with code. Most of my learning happens through **building projects,
+debugging, experimenting, and occasionally breaking things that were
+working five minutes ago.**
+
+I'm interested in what's happening **behind an application** — from
+**interfaces and APIs to databases, infrastructure, data, and AI** —
+and figuring out how all these pieces fit together.
+
+Currently exploring **Full-Stack Development, DevOps, Cloud Computing,
+Data Engineering, and practical AI/LLM integration**, while strengthening
+my **DSA and problem-solving skills**.
+
+```text
+BUILD → BREAK → DEBUG → UNDERSTAND → BUILD BETTER
 
 Currently, I'm exploring:
 
