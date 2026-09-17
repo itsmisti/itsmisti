@@ -44,39 +44,28 @@ my **DSA and problem-solving skills**.
 ```text
 BUILD → BREAK → DEBUG → UNDERSTAND → BUILD BETTER
 
-Currently, I'm exploring:
-
-- ☁️ AWS & Cloud Computing
-- ⚙️ DevOps & CI/CD
-- 🐳 Docker & Containerization
-- ☸️ Kubernetes & Amazon EKS
-- 💻 Backend & Full-Stack Development
-- 🧠 DSA & System Design
-- 🤖 Machine Learning
-
-> `Build it. Deploy it. Automate it. Improve it.`
-
 <br>
 
 <!-- ===================== CONNECT ===================== -->
-
 ## 🤝 Connect
 
 <p align="center">
 
 <a href="https://github.com/twinklee176">
-<img src="https://img.shields.io/badge/GitHub-0B1020?style=for-the-badge&logo=github&logoColor=67E8F9"/>
+  <img src="https://img.shields.io/badge/GitHub-0B1020?style=for-the-badge&logo=github&logoColor=67E8F9" />
 </a>
+&nbsp;
 
 <a href="https://www.linkedin.com/in/twinkle-mahato">
-<img src="https://img.shields.io/badge/LinkedIn-0B1020?style=for-the-badge&logo=linkedin&logoColor=67E8F9"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0B1020?style=for-the-badge&logo=linkedin&logoColor=67E8F9" />
+</a>
+&nbsp;
+
+<a href="https://discord.com/users/1384940389080895730">
+  <img src="https://img.shields.io/badge/Discord-twynkx-0B1020?style=for-the-badge&logo=discord&logoColor=A78BFA" />
 </a>
 
-<img src="https://img.shields.io/badge/Discord-twynkx-0B1020?style=for-the-badge&logo=discord&logoColor=A78BFA"/>
-
 </p>
-
-<br>
 
 <!-- ===================== TECH STACK ===================== -->
 
