@@ -47,6 +47,7 @@ BUILD → BREAK → DEBUG → UNDERSTAND → BUILD BETTER
 <br>
 
 <!-- ===================== CONNECT ===================== -->
+
 ## 🤝 Connect
 
 <p align="center">
@@ -66,6 +67,8 @@ BUILD → BREAK → DEBUG → UNDERSTAND → BUILD BETTER
 </a>
 
 </p>
+
+<br>
 
 <!-- ===================== TECH STACK ===================== -->
 
