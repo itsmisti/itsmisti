@@ -24,9 +24,7 @@
 
 ## 👩‍💻 About Me
 
-# Hey, I'm Twinkle 👋
 
-### `CS Undergrad` · `Software Builder` · `Problem Solver`
 
 > **I like knowing what happens after "Run".**
 
