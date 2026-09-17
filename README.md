@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">
-  Hi 👋, I'm Twinkle
+  Hi 👋, I'm Misti
 </h1>
 
 <h3 align="center">
@@ -95,25 +95,114 @@ Currently exploring:
   <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,linux,git" />
 </p>
 
+My current focus is understanding the complete journey from  
+**source code to production deployment.**
+
+<br>
+
+<!-- ===================== PROJECTS ===================== -->
+
+## 🛠️ What I'm Building
+
+### ☁️ AWS Data Engineering
+
+Cloud-based data pipelines using services such as:
+
+`S3` `Lambda` `Glue` `Athena` `SNS` `CloudWatch`
+
+---
+
+### ⚙️ CI/CD & Kubernetes
+
+Exploring production-style deployment workflows using:
+
+`GitHub → Jenkins → Docker → ECR → Kubernetes → EKS`
+
+---
+
+### 💻 Software Engineering
+
+Building practical applications around:
+
+`React` `Node.js` `Express.js` `REST APIs` `PostgreSQL` `MongoDB`
+
+---
+
+### 🤖 Machine Learning
+
+Working with machine-learning workflows using:
+
+`Python` `Pandas` `NumPy` `Scikit-learn`
+
+<br>
+
+<!-- ===================== CURRENTLY LEARNING ===================== -->
+
+## 🧠 Currently Exploring
+
+<p align="center">
+
+`AWS` • `Kubernetes` • `Docker` • `CI/CD` • `Backend Engineering`
+
+`DSA` • `System Design` • `Machine Learning` • `Open Source`
+
+</p>
+
+<br>
+
+<!-- ===================== GITHUB STATS ===================== -->
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170"
+src="https://github-readme-stats.vercel.app/api?username=twinklee176&show_icons=true&hide_border=true&theme=github_dark"/>
+
+<img height="170"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=twinklee176&layout=compact&hide_border=true&theme=github_dark"/>
+
+</p>
+
+<br>
+
+<!-- ===================== STREAK ===================== -->
+
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com/?user=twinklee176&theme=github-dark-blue&hide_border=true"/>
+
+</p>
+
+<br>
+
+<!-- ===================== ACTIVITY ===================== -->
+
+## 📈 Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=twinklee176&theme=github-dark&hide_border=true&area=true"/>
+
+</p>
+
+<br>
+
+<!-- ===================== PHILOSOPHY ===================== -->
+
+## ⚡ Engineering Philosophy
+
 ```text
-       CODE
-        │
-        ▼
-      BUILD
-        │
-        ▼
-  CONTAINERIZE
-        │
-        ▼
-      CI/CD
-        │
-        ▼
-     DEPLOY
-        │
-        ▼
-      CLOUD
-        │
-        ▼
-     MONITOR
-        │
-        └──────────────► IMPROVE
+BUILD
+  ↓
+UNDERSTAND
+  ↓
+AUTOMATE
+  ↓
+DEPLOY
+  ↓
+DEBUG
+  ↓
+IMPROVE
