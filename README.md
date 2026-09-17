@@ -41,9 +41,9 @@ Currently exploring **Full-Stack Development, DevOps, Cloud Computing,
 Data Engineering, and practical AI/LLM integration**, while strengthening
 my **DSA and problem-solving skills**.
 
-text
+```text
 BUILD → BREAK → DEBUG → UNDERSTAND → BUILD BETTER
-
+```
 <br>
 
 <!-- ===================== CONNECT ===================== -->
